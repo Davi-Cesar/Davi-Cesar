@@ -1,4 +1,3 @@
-## Faaaala dev, Luigi Aqui!
 
 <div>
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=Davi-Cesar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
