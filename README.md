@@ -12,7 +12,6 @@
     <img align="left" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="left" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="left" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="left" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </div> 
 <br>
 <h1></h1>
@@ -21,7 +20,7 @@
   <a href="https://www.instagram.com/_davi_cesar/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
   
 </div>
-<h1></h1>
-  <a href="https://www.instagram.com/mokkapps/">Portifolio</a> 
+
+  <a href="https://davi-cesar.github.io/portfolio/" font-weight="bold"> <h5>Portifolio</h5></a> 
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
