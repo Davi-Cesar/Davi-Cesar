@@ -21,6 +21,5 @@
   
 </div>
 
-  <a href="https://davi-cesar.github.io/portfolio/" font-weight="bold"> <h5>Portifolio</h5></a> 
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
