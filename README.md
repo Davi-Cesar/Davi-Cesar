@@ -17,7 +17,7 @@
 <h1></h1>
 <p>
   <a href="https://www.linkedin.com/in/davi-bezerra-740700166/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/_davi_cesar/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/davicbezerra/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
   
 </div>
 
